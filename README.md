@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);相逢何必曾相识!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);学吧，学无止境!&center=true&size=27" />
     </a>
   </div>
 </div>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - :1st_place_medal: My projects are trusted by developers.
 - :sun_with_face: Highlights of my successful endeavors.
 
-<a href="https://autofelix.blog.csdn.net">
+<a href="https://blog.csdn.net/weixin_45894608?type=blog">
     <img src="https://img.shields.io/badge/CSDN Page View-125K-E65A65.svg" alt="" title="Python_AI的csdn" />
 </a>
 <a href="https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b"><img src="https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg" alt="Total time coded since Jan 4 2021" /></a>
